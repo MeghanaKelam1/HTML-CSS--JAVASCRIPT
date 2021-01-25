@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>
+ Basic html&css design
+</title>
+<style type="text/css">
+h1{
+color:DeepSkyBlue;
+}
+</style>
+</head>
+<body>
+<h1>Hello Everyone I am Meghana</h1>
+</body>
+</html>
