@@ -1,15 +1,35 @@
 <html>
-<head>
-
-<style type="text/css">
-a:link{color:#000000;}
-a:visited{color:#006600;}
-a:hover{color:#FFCC00;}
-a:active{color:FF00CC;}
-</style>
-
-
 <body>
-<a href="">LINK</a>
+
+<ul style="list-style-type:circle;">
+<li>Maths</li>
+<li>physics</li>
+<li>chemistry</li>
+</ul>
+
+<ul style="list-style-type:square;">
+<li>biology</li>
+<li>zeoology</li>
+<li>science</li>
+</ul>
+
+<ol style="list-style-type:decimal;">
+<li>biology</li>
+<li>zeology</li>
+<li>science</li>
+</ol>
+
+<ol style="list-style-type:lower-alpha;">
+<li>biology</li>
+<li>zeology</li>
+<li>science</li>
+</ol>
+
+<ol style="list-style-type:lower-roman";>
+<li>biology</li>
+<li>zeology</li>
+<li>science</li>
+</ol>
+
 </body>
-</htm
+</html>
