@@ -1,15 +1,16 @@
 <html>
-<head>
-
-<style type="text/css">
-a:link{color:#000000;}
-a:visited{color:#006600;}
-a:hover{color:#FFCC00;}
-a:active{color:FF00CC;}
-</style>
-
-
 <body>
-<a href="">LINK</a>
+<p style="color:blue;">this text will be written in red</p>
+<p style="direction:rtl;">this textwill be rendered from right to left</p>
+<p style="letter-spacing:5px;">this text will give space between the letters</p>
+<p style="word-spacing:5px;">this will give space between the words</p>
+<p style="text-indent:1cm;">this text will have first line indented by 1cm others will eemain in same position</p>
+<p style="text-align:right;">this will align the text into right side</p>
+<p style="text-align:center;">this will align the text into the center</p>
+<p style="text-decoration:underline;">this text will be underlined</p>
+<p style="text-decoration:line-through;">this text will be line through</p>
+<p style="text-decoration:overline;">this text will be overline</p>
+<p style="text-decoration:blink;">this text will be blink</p>
+<p style="text-shadow:4px 4px 8px blue;">if browswer support shadow property it will give the text in blue shadow</p>
 </body>
 </html>
