@@ -1,18 +1,1 @@
-LINK:
-
-<html>
-<head>
-
-<style type="text/css">
-a:link{color:#000000;}
-a:visited{color:#006600;}
-a:hover{color:#FFCC00;}
-a:active{color:FF00CC;}
-</style>
-
-
-<body>
-<a href="">LINK</a>
-</body>
-</html>
 
