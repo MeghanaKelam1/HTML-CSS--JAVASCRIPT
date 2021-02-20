@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> basic java script array examples</title>
+<script>
+var empty=[];
+var fruits=['apple','orange','banana'];
+alert(fruits[0]);
+
+var cars=['saab','volvo','bmw'];
+document.write(cars[0])
+
+var person=['john','doe',234.567]
+document.write(person);
+
+var badArray = new Array(10);
+var goodArray=[10];
+</script>
+</html>
