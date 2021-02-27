@@ -1,0 +1,37 @@
+</style>
+<body>
+<table>
+<tr>
+<th>column 1 heading</th>
+<th>cloumn 2 heading</th>
+<th>column 3 heading</th>
+</tr>
+<tr>
+<td>row2,cell1</td>
+<td colspan="2">row2,cell2,also spanning row2,cell 3</td>
+</tr>
+<tr>
+<td rowspan="2">row3,cell 1,also spanning row4,cell1</td>
+<td>row3,cell2</td>
+<td>row3,cell3</td>
+</tr>
+<tr>
+<td>row4,cell2</td>
+<td>row4,cell3</td>
+</tr>
+</table>
+<br>
+<table>
+<tr>
+<th>name</th>
+<th>dept</th>
+<th colspan="2">phone number</th>
+</tr>
+<tr>
+<td>meghana</td>
+<td>cse</td>
+<td>87493657709</td>
+<td>63976236890</td>
+</tr>
+</body>
+</html>
