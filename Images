@@ -1,0 +1,6 @@
+<html>
+<body>
+<p>This gives information about images</p>
+<img src="welcome.png" width="100" height="100"/>
+</body>
+</html>
