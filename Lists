@@ -1,0 +1,23 @@
+<html>
+<body>
+<p>Ordered and unordered lists</p>
+<p>fruits</p>
+<ol>
+<li>mango</li>
+<li>orange</li>
+<li>grape</li>
+</ol>
+<p>vegeteables</p>
+<ul>
+<li>beans</li>
+<li>peas</li>
+<li>carrot</li>
+</ul>
+<dl>
+<dt>fruits</dt>
+<dd>good for skin</dd>
+<dt>vegetables</dt>
+<dd>good for health</dd>
+</dl>
+</body>
+</html>
