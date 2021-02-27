@@ -1,0 +1,24 @@
+<html>
+<body>
+<ul style="list-style-type:square;">
+<li>Mango</li>
+<li>orange</li>
+<li>Apple</li>
+</ul>
+<ul style="list-style-type:circle;">
+<li>Mango</li>
+<li>orange</li>
+<li>Apple</li>
+</ul>
+<ul style="list-style-type:disc;">
+<li>Mango</li>
+<li>orange</li>
+<li>Apple</li>
+</ul>
+<ul style="list-style-type:none;">
+<li>Mango</li>
+<li>orange</li>
+<li>Apple</li>
+</ul>
+</body>
+</html
