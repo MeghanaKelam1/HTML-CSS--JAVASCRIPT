@@ -1,0 +1,21 @@
+<html>
+<head>
+<script type="text/javascript">
+function over()
+{
+alert("mouse over");
+}
+function out()
+{
+alert("mouse out");
+}
+</script>
+</head>
+
+<body>
+
+<input type="button" onmouseover="over()" onmouseout="out()" value="mouseevents" />
+<h2>this is inside the division</h2>
+</div>
+</body>
+</html>
