@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#greeting
+{
+background-color:hotpink;
+color:#000000;
+width:75%;
+text-align:center;
+}
+</style>
+</head>
+<body style="text-align:center;">
+<div id="greeting">
+<h1>Happy Women's Day</h1>
+<p>A women is like a <b>ocean</b> 
+<p>You can't realize how capable she is..
+<p>Untill you start finding her uniquness</p>
+<p class="signature">–A feminist</p>
+</html>
