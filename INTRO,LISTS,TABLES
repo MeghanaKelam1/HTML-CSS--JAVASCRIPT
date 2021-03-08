@@ -1,0 +1,108 @@
+INTRO:
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Online Shooping</title>
+</head>
+<body>
+<h1>M/s. Universal Shopping Center</h1>
+<h2>19, Hosur Road, Bangalore</h2>
+<p>It is a shopping which sells all the items on a retail</p>
+<img src="#"/>
+</body>
+</html>
+
+TABLE:
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table,th,td
+{
+border:1px solid black;
+}
+</style>
+<title>Information Technology</title>
+</head>
+<h1>Raghav Software Ltd</h1>
+<h2>248, Old Airport Road, Bangalore</h2>
+<table>
+<tr>
+<th>Product Code</th>
+<th>Product Name</th>
+<th>Quantity</th>
+<th>Unit Price</th>
+<th>Amount</th>
+</tr>
+<tr>
+<td>1001</td>
+<td>Hard Disk Drive</td>
+<td>450</td>
+<td>4000</td>
+<td>1800000</td>
+</tr>
+<tr>
+<td>1002</td>
+<td>Laptops</td>
+<td>20</td>
+<td>30000</td>
+<td>600000</td>
+</tr>
+<tr>
+<td>1003</td>
+<td>16 GB Pen Drives</td>
+<td>15</td>
+<td>800</td>
+<td>12000</td>
+</tr>
+<tr>
+<td>1004</td>
+<td>41''LED TV</td>
+<td>1</td>
+<td>32000</td>
+<td>32000</td>
+</tr>
+<tr>
+<td>1005</td>
+<td>Projectors</td>
+<td>10</td>
+<td>5600</td>
+<td>56000</td>
+</tr>
+</table>
+</html>
+
+LISTS:
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Online Shopping</title>
+</head>
+<body bgcolor="Cyan">
+<h1>Reliance India Ltd.</h1>
+<h2>48, M.G.Road, Bangalore.</h2>
+<ol>
+<li>Vegetables</li>
+<ul>
+<li>Brinjal</li>
+<li>Cucumber</li>
+<li>Bottle Gaurd</li>
+<li>Ladies Finger</li>
+</ul>
+</ol>
+<ol>
+<li>Fruits</li>
+<ul>
+<li>Oranges</li>
+<li>Apples</li>
+<li>Bananas</li>
+<li>Grapes</li>
+</ul>
+</ol>
+</body>
+</html>
