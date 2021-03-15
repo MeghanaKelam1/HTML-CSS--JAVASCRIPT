@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Online Shopping</title>
+</head>
+<body bgcolor="Cyan">
+<h1>Reliance India Ltd.</h1>
+<h2>48, M.G.Road, Bangalore.</h2>
+<ol>
+<li>Vegetables</li>
+<ul>
+<li>Brinjal</li>
+<li>Cucumber</li>
+<li>Bottle Gaurd</li>
+<li>Ladies Finger</li>
+</ul>
+</ol>
+<ol>
+<li>Fruits</li>
+<ul>
+<li>Oranges</li>
+<li>Apples</li>
+<li>Bananas</li>
+<li>Grapes</li>
+</ul>
+</ol>
+</body>
+</html>
